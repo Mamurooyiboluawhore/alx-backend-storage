@@ -1,5 +1,5 @@
 -- 5-valid_email.sql
-
+DROP TRIGGER IF EXISTS resetEmail
 DELIMITER $$
 CREATE TRIGGER resetEmail
 BEFORE UPDATE ON users
