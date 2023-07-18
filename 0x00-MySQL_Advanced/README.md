@@ -1,4 +1,3 @@
-0x00. MySQL advanced
-Back-end
-SQL
-MySQL
+#  0x00. MySQL advanced
+
+# <h2> noSQL </h2>
